@@ -1,0 +1,14 @@
+{
+  "latest": "1.0.0",
+  "minRequired": "1.0.0",
+  "releasedAt": "2026-05-18",
+  "apkSizeKb": 75000,
+  "apkUrl": "NANTI_DIISI_SETELAH_STEP_5",
+  "changelog": [
+    "Rilis perdana Kasir91 Cafe",
+    "Manajemen meja dan pesanan",
+    "Laporan penjualan harian dan bulanan",
+    "Manajemen inventori dan stok",
+    "Sistem kasir dengan cetak struk"
+  ]
+}
