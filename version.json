@@ -1,9 +1,9 @@
 {
-  "latest": "1.0.6",
-  "minRequired": "1.0.6",
+  "latest": "1.0.7",
+  "minRequired": "1.0.7",
   "releasedAt": "2026-05-18",
   "apkSizeKb": 75000,
-  "apkUrl": "https://github.com/kasir91/kasir91-releases/releases/download/v1.0.6/kasir91-v1.0.6.apk",
+  "apkUrl": "https://github.com/kasir91/kasir91-releases/releases/download/v1.0.7/kasir91-v1.0.7.apk",
   "changelog": [
     "Rilis perdana Kasir91 Cafe",
     "Manajemen meja dan pesanan",
